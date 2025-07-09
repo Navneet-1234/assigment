@@ -1,8 +1,8 @@
-node_modules/
+# Ignore node modules
 backend/node_modules/
 client/node_modules/
 backend/.env
 client/.env
 backend/package-lock.json
 client/package-lock.json
-client/build/
+# Ignore build artifacts
