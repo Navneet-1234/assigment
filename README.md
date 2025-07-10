@@ -6,9 +6,8 @@ GitHub Repository
 URL: https://github.com/Navneet-1234/assigment
 
 Deployment
+Github: https://github.com/Navneet-1234/assigment
 
-Frontend: https://assigment-client.vercel.app
-Backend: https://assigment-backend.onrender.com
 
 Features
 
