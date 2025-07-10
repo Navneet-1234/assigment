@@ -34,6 +34,8 @@ Navigate to client/, run npm install, create .env:REACT_APP_API_URL=http://local
 
 Start: npm start.
 
+Features Pending: email validation using OTP, nodemailer and send grid to send email notifications
+
 
 Open http://localhost:3000.
 
